@@ -2,6 +2,7 @@
 # ML Initiative
 ----------------------
 Repository for collaborating with others to learn Machine Learning and Deep Learning Solutions.
+> #### Refer to [Wiki](https://github.com/Alphamineron/mlinitiative/wiki) for Resources
 
 # Instructions
 * Create a new branch with your name using the command `git checkout -b <branch-name>`, with branch name in format <first-name>"-"<last-name>. eg.- `git checkout -b Ankur-Singh`.
@@ -22,15 +23,15 @@ git push origin Ankur-Singh
 * Develop the [wiki](https://github.com/Alphamineron/mlinitiative/wiki) in order to include relevant learning resources
 
 # Order of Learning<sup>*</sup>
-1. GIT
+1. git - Basics
 2. Python 3.x
 3. Anaconda (setting up a conda environment)
 4. Jupyter notebooks
-  OPTIONAL: Setup Atom for personal use
-5. numpy
-6. matplotlib
-7. pandas
-8. scipy
+  OPTIONAL: Setup Atom/VS-code for personal use
+5. numpy [Basics]
+6. matplotlib [Basics]
+7. pandas [Basics]
+8. scipy [Basics]
 9. Basic Concepts of Machine Learning
 10. Multivariate Calculus and Linear Algebra
 11. Follow and Develop projects
